@@ -3,6 +3,9 @@ html{
     background-color: black;
 
 }
+body {
+    min-width: 400px;
+}
 h1 {
    color:bisque;
    font-size: 5rem;
