@@ -10,9 +10,13 @@ h1 {
    color:bisque;
    font-size: 5rem;
 }
+h2{
+    font-size: 4rem;
+    color: blanchedalmond;
+}
 
 p{
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: beige;
-    letter-spacing: 5px;
+    letter-spacing: 3px;
 }
