@@ -5,6 +5,7 @@ html{
 }
 body {
     min-width: 400px;
+    background-image: linear-gradient(rgb(250,214,149) rgb(250,162,162));
 }
 h1 {
    color:bisque;
